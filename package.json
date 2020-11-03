@@ -1,0 +1,27 @@
+{
+  "name": "hmdn-qlnp",
+  "version": "1.0.0",
+  "description": "quản lý nghỉ phép online",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahkhinmat/hmdn-qlnp.git"
+  },
+  "keywords": [
+    "qlnp"
+  ],
+  "author": "khatm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahkhinmat/hmdn-qlnp/issues"
+  },
+  "homepage": "https://github.com/ahkhinmat/hmdn-qlnp#readme",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  }
+}
